@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Home"
+permalink: /
+---
 ### Hi there 👋
 I'm currently learning NodeJS + React + a lot of new things !
 
