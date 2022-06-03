@@ -1,7 +1,3 @@
----
-layout: page
-title: "Home"
----
 ### Hi there 👋
 I'm currently learning NodeJS + React + a lot of new things !
 
