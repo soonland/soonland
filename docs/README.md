@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Home"
-permalink: /
+permalink: /soonland
 ---
 ### Hi there 👋
 I'm currently learning NodeJS + React + a lot of new things !
