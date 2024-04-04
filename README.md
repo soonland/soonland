@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm currently learning NodeJS + React + a lot of new things !
 
-![soonland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![soonland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
-![soonland's Stats](https://github-readme-stats.vercel.app/api?username=soonland&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![soonland's Stats](https://github-readme-stats.vercel.app/api?username=soonland&theme=calm&show_icons=true&hide_border=true&count_private=false)
 <!--
 **soonland/soonland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
