@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning NodeJ, NextJs, React, Vercel, SonarCloud and a lot of new things !
+I'm currently learning NodeJs, NextJs, React, Vercel, SonarCloud and a lot of new things !
 
 ![soonland's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&theme=calm&show_icons=true&hide_border=true&layout=compact)
 
