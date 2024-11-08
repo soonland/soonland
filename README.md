@@ -7,7 +7,7 @@ I'm currently learning NodeJs, NextJs, React, Vercel, SonarCloud and a lot of ne
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&theme=calm&show_icons=true&hide_border=true&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&show_icons=true&hide_border=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soonland&show_icons=true&hide_border=true&layout=compact" />
